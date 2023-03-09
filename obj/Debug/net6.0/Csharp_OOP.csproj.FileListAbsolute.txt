@@ -1,0 +1,15 @@
+D:\Session\Csharp_OOP\bin\Debug\net6.0\Csharp_OOP.exe
+D:\Session\Csharp_OOP\bin\Debug\net6.0\Csharp_OOP.deps.json
+D:\Session\Csharp_OOP\bin\Debug\net6.0\Csharp_OOP.runtimeconfig.json
+D:\Session\Csharp_OOP\bin\Debug\net6.0\Csharp_OOP.dll
+D:\Session\Csharp_OOP\bin\Debug\net6.0\Csharp_OOP.pdb
+D:\Session\Csharp_OOP\obj\Debug\net6.0\Csharp_OOP.csproj.AssemblyReference.cache
+D:\Session\Csharp_OOP\obj\Debug\net6.0\Csharp_OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Session\Csharp_OOP\obj\Debug\net6.0\Csharp_OOP.AssemblyInfoInputs.cache
+D:\Session\Csharp_OOP\obj\Debug\net6.0\Csharp_OOP.AssemblyInfo.cs
+D:\Session\Csharp_OOP\obj\Debug\net6.0\Csharp_OOP.csproj.CoreCompileInputs.cache
+D:\Session\Csharp_OOP\obj\Debug\net6.0\Csharp_OOP.dll
+D:\Session\Csharp_OOP\obj\Debug\net6.0\refint\Csharp_OOP.dll
+D:\Session\Csharp_OOP\obj\Debug\net6.0\Csharp_OOP.pdb
+D:\Session\Csharp_OOP\obj\Debug\net6.0\Csharp_OOP.genruntimeconfig.cache
+D:\Session\Csharp_OOP\obj\Debug\net6.0\ref\Csharp_OOP.dll
